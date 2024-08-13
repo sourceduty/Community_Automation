@@ -12,6 +12,8 @@ Additionally, Community Automation provides support for troubleshooting and adap
 ### Related Links
 
 [ChatGPT](https://github.com/sourceduty/ChatGPT)
+<br>
+[Public Opinion Standard](https://github.com/sourceduty/Public_Opinion_Standard)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
